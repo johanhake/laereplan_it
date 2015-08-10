@@ -1,4 +1,4 @@
-======= Læreplan i informasjonsteknologi =======
+========= Læreplan i informasjonsteknologi =========
 
 Dette avsnittet er hentet fra "`udir`":"http://www.udir.no/kl06/inf1-01/Hele".
 
@@ -6,7 +6,7 @@ Dette avsnittet er hentet fra "`udir`":"http://www.udir.no/kl06/inf1-01/Hele".
 "PDF versjon av dette dokumentet (for printing)": "laereplan_it.pdf"
 # #endif
 
-===== Formål =====
+======= Formål =======
 
 Informasjonsteknologien har hatt stor betydning for
 samfunnsutviklingen de siste tiårene. Teknologien har i løpet av kort
@@ -43,7 +43,7 @@ kompetanse i yrkeslivet.
 \pagebreak
 # #endif
 
-===== Grunnleggende ferdigheter =====
+======= Grunnleggende ferdigheter =======
 
 Grunnleggende ferdigheter er integrert i kompetansemålene der hvor de
 bidrar til utvikling av og er en del av fagkompetansen. I
@@ -76,10 +76,10 @@ dokumentasjonsprosesser.
 \pagebreak
 # #endif
 
-===== Kompetansemål IT1 =====
+======= Kompetansemål IT1 =======
 label{section:kompetansemål_it1}
 
-=== Digital samtid ===
+===== Digital samtid =====
 label{section:digitalsamtid}
 
 Hovedområdet handler om hvordan digitalt utstyr fungerer, og hvordan
@@ -101,7 +101,7 @@ o beskrive og drøfte informasjonsteknologiens muligheter og konsekvenser
 o beskrive og foreslå tiltak mot trusler i den digitale verden
 !enotice
 
-=== Nettsteder og multimedier ===
+===== Nettsteder og multimedier =====
 label{section:nettstederogmultimedier}
 Hovedområdet handler om utforming, implementering og vurdering av
 nettsteder med tekst, lyd, bilde, video og animasjoner. Sentralt i
@@ -118,7 +118,7 @@ o organisere og begrunne filstrukturen for nettsteder
 o sette opp krav til og vurdere nettsteder
 !enotice
 
-=== Databaser ===
+===== Databaser =====
 label{section:databaser}
 
 Hovedområdet handler om modellering og realisering av databaser, og
@@ -138,10 +138,10 @@ o lage dynamiske nettsider som bruker en database ved hjelp av spørrespråk og 
 \pagebreak
 # #endif
 
-===== Kompetansemål IT2 =====
+======= Kompetansemål IT2 =======
 label{section:kompetansemål_it2}
 
-=== Planlegging og dokumentasjon ===
+===== Planlegging og dokumentasjon =====
 label{section:planleggingogdokumentasjon}
 
 Hovedområdet handler om planlegging av IT-løsninger, og utvikling av
@@ -159,7 +159,7 @@ o gjøre rede for hvordan IT-løsninger utvikles i samarbeid mellom personer, og
 o forklare hensikten med teknisk dokumentasjon og lage slik dokumentasjon for IT-løsninger, med spesiell vekt på å dokumentere grensesnitt mellom ulike delsystemer
 !enotice
 
-=== Programmering ===
+===== Programmering =====
 label{section:programmering}
 
 Hovedområdet handler om hvordan formelle språk kan brukes til å
@@ -180,7 +180,7 @@ o teste og finne feil i programmer ved å bruke vanlige teknikker
 o gjøre rede for hensikten med objektorientert utvikling og begrepene klasse, objekt og arv
 !enotice 
 
-=== Multimedieutvikling ===
+===== Multimedieutvikling =====
 label{section:multimedieutvikling}
 
 Hovedområdet handler om utforming, strukturering, implementering og

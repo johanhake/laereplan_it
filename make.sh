@@ -18,9 +18,16 @@ doconce replace '\usepackage{lmodern}' '%\usepackage{lmodern}' $TEXDOC
 
 # Fix some page settings
 doconce replace '10pt]' '12pt]' $TEXDOC
-doconce replace '\usepackage[a4paper]{geometry}' '\usepackage[a4paper, margin=1in]{geometry}' $TEXDOC
+doconce replace '\usepackage[a4paper]{geometry}' '\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\titleformat{\chapter}[hang]
+  {\Huge\bfseries}{\thechapter{}. }{1pt}{\Huge}
+\pagestyle{fancy}
+\fancyhf{}\fancyhead[RE]{}\fancyhead[LO]{}\fancyhead[LE,RO]{\thepage}' $TEXDOC
 
 doconce replace 'section{' 'section*{' $TEXDOC
+doconce replace 'chapter{' 'chapter*{' $TEXDOC
 
 pdflatex -shell-escape $TEXDOC
 pdflatex -shell-escape $TEXDOC
