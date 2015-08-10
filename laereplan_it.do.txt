@@ -3,7 +3,7 @@
 Dette avsnittet er hentet fra "`udir`":"http://www.udir.no/kl06/inf1-01/Hele".
 
 # #if FORMAT in ('html', 'sphinx')
-"PDF versjon av dette dokumentet (for printing)": "it2.pdf"
+"PDF versjon av dette dokumentet (for printing)": "laereplan_it.pdf"
 # #endif
 
 ===== Formål =====
