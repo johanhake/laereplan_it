@@ -20,5 +20,7 @@ doconce replace '\usepackage{lmodern}' '%\usepackage{lmodern}' $TEXDOC
 doconce replace '10pt]' '12pt]' $TEXDOC
 doconce replace '\usepackage[a4paper]{geometry}' '\usepackage[a4paper, margin=1in]{geometry}' $TEXDOC
 
+doconce replace 'section{' 'section*{' $TEXDOC
+
 pdflatex -shell-escape $TEXDOC
 pdflatex -shell-escape $TEXDOC
